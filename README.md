@@ -5,7 +5,7 @@
 # Team Movie Badgers - Movie Revenue Prediction
 
 ## Collaborators:
-Anna Huang, Jingyun Chen, Weichen Xu, Chen Ren, Junmeng Zhu
+Chen Ren, Anna Huang, Jingyun Chen, Weichen Xu, Junmeng Zhu
 
 ## Project description
 
